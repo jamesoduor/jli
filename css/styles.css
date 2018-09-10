@@ -26,14 +26,6 @@ img{
 .p{
   font-size: 20px;
 }
-  #navigate ul li a {
-  display:block;
-  color:white;
-  text-align:center;
-  padding:15px 17px;
-  text-decoration:none;
-  background-color:brown;
-}
 nav{
   width: 100%;
   background: #fff;
